@@ -1,4 +1,4 @@
-# FG-TIDA WG4: Control Plane potentials
+# FG-TIDA WG4: ATHENA
 
 ## Working group
 - **Chairs:** TBD
