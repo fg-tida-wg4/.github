@@ -1,4 +1,4 @@
-# FG-TIDA WG4: ATHENA
+# FG-TIDA WG4: Governance / Cross-Border / Interoperable Credentials
 
 ## Working group
 - **Chairs:** TBD
