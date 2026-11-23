@@ -2,7 +2,7 @@
 
 ## Working group
 - **Chairs:** TBD
-- **Mailing list:** fgtidawg2@lists.itu.int
+- **Mailing list:** TBD
 - **Meetings:** <cadence / calendar link> TBD
 
 ## Contributing
